@@ -35,19 +35,19 @@ Myself, Rahul Hande holding a Bachelor's Degree Of Engineering in Electronics & 
 Skills: Numpy, Pandas, Python, SQL, Visualization, Matplotlib, Seaborn, Plotly, Excel, Tableau, Presentation, Communication
 
 
-## PROJECTS (View all)
+## PROJECTS 
 
-### 1. Exploratory Data Analysis and Visualization of Swiggy (View)
+### 1. Exploratory Data Analysis and Visualization of Swiggy 
 - Worked on Swiggy restaurants dataset from Kaggle containing 148K+ rows & 11 columns 
 - Cleaned and visualized (bar chart, pie charts etc.) data using Plotly, Seaborn, Matplotlib & WordCloud
 - Found maximum restaurants have no ratings & most of given restaurant ratings were between 4.2 - 5.0
 
-### 2. Web Scraping of Selected Categories on netmeds.com (View)
+### 2. Web Scraping of Selected Categories on netmeds.com 
 - Scraped selected categories on netmeds.com using Python, Requests and BeautifulSoup
 - Defined functions to extract product details like product name, buyprice, mrp etc. into dictionary
 - Exported data contains 120 rows and 6 columns in Pandas dataframe and convert it into .CSV file
 
-### 3. Bookshop Dashboard using Excel and Tableau. (View)
+### 3. Bookshop Dashboard using Excel and Tableau. 
 - Worked with bookshop dataset from Excel containing 5000 rows across 13 categories (digits & chars)
 - Built a dashboard on Tableau with OpenStreetMap, Treemaps, Bullet charts etc to identify insights
 - Analyzed hours writing per day for specific genre by total authors & identified quarterly sales of books
