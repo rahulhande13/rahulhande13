@@ -30,24 +30,24 @@ I write code
 - Diploma in Industrial Electronics.
 - Courses: Physics, Maths, Principle of Digital Techniques, Microcontrollers, Advanced Industrial Electronics
 
-# SKILLS 
+## SKILLS 
 
 Skills: Numpy, Pandas, Python, SQL, Visualization, Matplotlib, Seaborn, Plotly, Excel, Tableau, Presentation, Communication
 
 
-# PROJECTS (View all)
+## PROJECTS (View all)
 
-1. Exploratory Data Analysis and Visualization of Swiggy (View)
+### 1. Exploratory Data Analysis and Visualization of Swiggy (View)
 - Worked on Swiggy restaurants dataset from Kaggle containing 148K+ rows & 11 columns 
 - Cleaned and visualized (bar chart, pie charts etc.) data using Plotly, Seaborn, Matplotlib & WordCloud
 - Found maximum restaurants have no ratings & most of given restaurant ratings were between 4.2 - 5.0
 
-2. Web Scraping of Selected Categories on netmeds.com (View)
+### 2. Web Scraping of Selected Categories on netmeds.com (View)
 - Scraped selected categories on netmeds.com using Python, Requests and BeautifulSoup
 - Defined functions to extract product details like product name, buyprice, mrp etc. into dictionary
 - Exported data contains 120 rows and 6 columns in Pandas dataframe and convert it into .CSV file
 
-3. Excel and Tableau (View)
+### 3. Excel and Tableau (View)
 - Worked with bookshop dataset from Excel containing 5000 rows across 13 categories (digits & chars)
 - Built a dashboard on Tableau with OpenStreetMap, Treemaps, Bullet charts etc to identify insights
 - Analyzed hours writing per day for specific genre by total authors & identified quarterly sales of books
@@ -55,22 +55,22 @@ Skills: Numpy, Pandas, Python, SQL, Visualization, Matplotlib, Seaborn, Plotly, 
 
 # WORK EXPERIENCE
 
-1. Business Officer - A. Menarini India Pvt Ltd                                                                                      Apr 2021- Ongoing
+### 1. Business Officer - A. Menarini India Pvt Ltd                                                                                      Apr 2021- Ongoing
 - Managing Business Development Sales with medical devices across Maharashtra, Gujrat & Goa states
 - Achieved target numbers of 102%  business growth in CMF division after 6 years
 - Increased the market sales and appointed new vendors in Tier2 and Tier3 city
 
-2. Sales Manager - Vishal Surgicals Pvt Ltd                                                                                    		     2020 - 2021
+### 2. Sales Manager - Vishal Surgicals Pvt Ltd                                                                                    		     2020 - 2021
 - Incharge of Mediflex retractor system for Maharashtra state
 - Responsible for demonstrating, presenting the technical details and assisting in the surgery
 - Strategically managing new products in market for better customer engagement and business growth
 
-3. Application Specialist - Addeco India Pvt Ltd                                                                             		     2019 - 2020 
+### 3. Application Specialist - Addeco India Pvt Ltd                                                                             		     2019 - 2020 
 - Demonstrating and presenting technical details about the products
 - Supporting front-end sales with assisting surgeries with the surgeons
 - Managing and handling surgeons by engaging them in conferences and workshops
 
-4. Associate Embedded Developer - Lemon Street Venture Pvt Ltd                                                              2018 - 2019
+### 4. Associate Embedded Developer - Lemon Street Venture Pvt Ltd                                                              2018 - 2019
 - Hands-on C-programming and PCB designing on micro-controller
 - Installation of devices and demonstrating about the products to clients on sites
 - Increased in repeat orders and engaging new customers by giving  demos
