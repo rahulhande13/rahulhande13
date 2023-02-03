@@ -16,12 +16,6 @@ Here are some ideas to get you started:
 -->
 Myself, Rahul Hande holding a Bachelor's Degree Of Engineering in Electronics & Telecommunication from Mumbai University. Working in the medical device industry for 3+ years. Practicing Data Science and Machine Learning for over 5 months with 400+ hours of coursework, 10 coding assignments & projects. Currently, I am open to opportunities for Data Science, Machine Learning & related roles.
 
-How to reach me:
-<Div>
-  <a href="https://www.linkedin.com/in/rahulhande1305/" rel="nofollow">
-    <img alt="LinkedIn" src="https://raw.githubusercontent.com/SaiSiddhardhaKalla/statalogosvg/main/linkedin-icon.svg", width="80" height="80" style="max-width: 100%;">
-</Div>
-
 ## EDUCATION
 
 ### 1. Data Science Bootcamp, Jovian 	                                                                                      Aug 2022 - Ongoing
