@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I write code
+Hi, Myself Rahul Hande holding a Bachelor's Degree Of Engineering in Electronics & Telecommunication from Mumbai University. Working in the medical device industry for 3+ years. Practicing Data Science and Machine Learning for over 5 months with 400+ hours of coursework, 10 coding assignments & projects. Currently, I am open to opportunities for Data Science, Machine Learning & related roles.
 
 ## EDUCATION
 
@@ -53,7 +53,7 @@ Skills: Numpy, Pandas, Python, SQL, Visualization, Matplotlib, Seaborn, Plotly, 
 - Analyzed hours writing per day for specific genre by total authors & identified quarterly sales of books
 
 
-# WORK EXPERIENCE
+## WORK EXPERIENCE
 
 ### 1. Business Officer - A. Menarini India Pvt Ltd                                                                                      Apr 2021- Ongoing
 - Managing Business Development Sales with medical devices across Maharashtra, Gujrat & Goa states
