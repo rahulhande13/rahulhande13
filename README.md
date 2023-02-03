@@ -16,17 +16,17 @@ Here are some ideas to get you started:
 -->
 I write code
 
-# EDUCATION
+## EDUCATION
 
-## 1. Data Science Bootcamp, Jovian 	                                                                                      Aug 2022 - Ongoing
+### 1. Data Science Bootcamp, Jovian 	                                                                                      Aug 2022 - Ongoing
 - Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics
 - Highlights: 400+ hours of coursework, 10 coding assignments, 2 projects (Web scraping & EDA)
 
-## 2. Fr. C. Rodrigues Institute of Technology, Mumbai, India       			                             2015-2018
+### 2. Fr. C. Rodrigues Institute of Technology, Mumbai, India       			                             2015-2018
 - B.E, Electronics and Telecommunications.
 - Courses: Programming in Assembly Language and Python, Mathematics, Digital Electronics, Integrated Circuits, Signal Processing and System, Control System, Computer Communication and Telecom Network 
 
-## 3. Agnel Polytechnic, Mumbai, India  	                						      2011-2015
+### 3. Agnel Polytechnic, Mumbai, India  	                						      2011-2015
 - Diploma in Industrial Electronics.
 - Courses: Physics, Maths, Principle of Digital Techniques, Microcontrollers, Advanced Industrial Electronics
 
