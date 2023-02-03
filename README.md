@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Myself Rahul Hande holding a Bachelor's Degree Of Engineering in Electronics & Telecommunication from Mumbai University. Working in the medical device industry for 3+ years. Practicing Data Science and Machine Learning for over 5 months with 400+ hours of coursework, 10 coding assignments & projects. Currently, I am open to opportunities for Data Science, Machine Learning & related roles.
+Myself, Rahul Hande holding a Bachelor's Degree Of Engineering in Electronics & Telecommunication from Mumbai University. Working in the medical device industry for 3+ years. Practicing Data Science and Machine Learning for over 5 months with 400+ hours of coursework, 10 coding assignments & projects. Currently, I am open to opportunities for Data Science, Machine Learning & related roles.
 
 ## EDUCATION
 
