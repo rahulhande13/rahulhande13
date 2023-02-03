@@ -19,7 +19,7 @@ Myself, Rahul Hande holding a Bachelor's Degree Of Engineering in Electronics & 
 How to reach me:
 <Div>
   <a href="https://www.linkedin.com/in/rahulhande1305/" rel="nofollow">
-    <img alt="LinkedIn" src="https://raw.githubusercontent.com/SaiSiddhardhaKalla/statalogosvg/main/linkedin-icon.svg", width="40" height="40" style="max-width: 100%;">
+    <img alt="LinkedIn" src="https://raw.githubusercontent.com/SaiSiddhardhaKalla/statalogosvg/main/linkedin-icon.svg", width="20" height="20" style="max-width: 100%;">
 </Div>
 
 ## EDUCATION
