@@ -47,7 +47,7 @@ Skills: Numpy, Pandas, Python, SQL, Visualization, Matplotlib, Seaborn, Plotly, 
 - Defined functions to extract product details like product name, buyprice, mrp etc. into dictionary
 - Exported data contains 120 rows and 6 columns in Pandas dataframe and convert it into .CSV file
 
-### 3. Excel and Tableau (View)
+### 3. Bookshop Dashboard using Excel and Tableau. (View)
 - Worked with bookshop dataset from Excel containing 5000 rows across 13 categories (digits & chars)
 - Built a dashboard on Tableau with OpenStreetMap, Treemaps, Bullet charts etc to identify insights
 - Analyzed hours writing per day for specific genre by total authors & identified quarterly sales of books
